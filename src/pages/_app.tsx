@@ -13,32 +13,32 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <link
           rel="shortcut icon"
-          href="https://husnainfarooq.github.io/hf-portfolio/a-logo-rounded.png"
+          href="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
           type="image/x-icon"
         />
 
-        <title>{`Husnain's Portfolio`}</title>
+        <title>{`Ahzlan's Portfolio`}</title>
 
-        <meta name="title" content="Husnain's Portfolio" />
-        <meta name="description" content="Husnain Farooq's Portfolio" />
+        <meta name="title" content="Ahzlan's Portfolio" />
+        <meta name="description" content="Ahzlan's Portfolio" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Husnain's Portfolio" />
-        <meta property="og:description" content="Husnain Farooq's Portfolio" />
+        <meta property="og:title" content="Ahzlan's Portfolio" />
+        <meta property="og:description" content="Ahzlan's Portfolio" />
         <meta
           property="og:image"
-          content="https://husnainfarooq.github.io/hf-portfolio/a-logo-rounded.png"
+          content="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:title" content="Husnain's Portfolio" />
+        <meta property="twitter:title" content="Ahzlan's Portfolio" />
         <meta
           property="twitter:description"
-          content="Husnain Farooq's Portfolio"
+          content="Ahzlan's Portfolio"
         />
         <meta
           property="twitter:image"
-          content="https://husnainfarooq.github.io/hf-portfolio/a-logo-rounded.png"
+          content="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
         />
       </Head>
       <LazyMotion features={domAnimation}>

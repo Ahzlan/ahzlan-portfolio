@@ -24,14 +24,14 @@ const Who: FC = () => {
 
           {/* Hide my age :v */}
           <p data-scroll className="text-lg text-gray-200" id="story">
-            &emsp;My name is Husnain Farooq. I&apos;m a
-            {true ? ` ${new Date().getFullYear() - 1999} years old` : ""}{" "}
-            Full Stack developer living in Pakistan. I started learning
-            development when I started my Software Engineering. Since then, I have made a lot of
-            projects, from basic HTML pages to complex mobile applications. 
+            &emsp;My name is Ahzlan Irfan. I&apos;m a
+            {true ? ` ${new Date().getFullYear() - 1994} years old` : ""}{" "}
+            Front End developer living in Pakistan. I started learning
+            development when I started my Mechanical Engineering. Since then, I have learned a lot and made
+            projects, from basic HTML pages to complex front end. 
             I&apos;m trying to be a better version of myself and get my dream come true in the future.
             Besides coding, I also like listening to music and playing video
-            games as well as working out at gym.
+            games.
           </p>
         </div>
       </div>

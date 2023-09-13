@@ -19,7 +19,7 @@ const Contact: FC = () => {
               If you want to contact me, you can do it through the following
               <p className="mt-3">Email: </p>
               <a
-                href="mailto:husnain.610@gmail.com"
+                href="mailto:ahzlan@gmail.com"
                 className="flex gap-3 items-center hover:bg-slate-900 p-2 transition duration-300"
               >
                 <img
@@ -27,11 +27,11 @@ const Contact: FC = () => {
                   src="https://i.ibb.co/N12cYjr/gmail-icon-logo-png-transparent.png"
                   alt=""
                 />
-                husnain.610@gmail.com
+                ahzlan@gmail.com
               </a>
               <p className="mt-1">Phone: </p>
               <a
-                href="tel:+923136435543"
+                href="tel:+923214441223"
                 className="flex gap-3 items-center hover:bg-slate-900 p-2 transition duration-300"
               >
                 <img
@@ -39,7 +39,7 @@ const Contact: FC = () => {
                   src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png"
                   alt=""
                 />
-                +92-313-6435543
+                +92-321-4441223
               </a>
             </p>
 

@@ -46,7 +46,7 @@ const Intro: FC = () => {
         transition={{ duration: 0.4, delay: 1.4 }}
         className="text-6xl text-center z-[1] overflow-hidden font-bold"
       >
-        {`Husnain Farooq`}
+        {`Ahzlan Irfan`}
       </m.p>
       <m.p
         data-scroll
@@ -56,9 +56,9 @@ const Intro: FC = () => {
         transition={{ duration: 1, delay: 1.4 }}
         className="text-3xl text-center z-[1] overflow-hidden my-10"
       >
-        I&apos;m a Software Engineer
+        I&apos;m a Mechanical Engineer
         <br />
-        with expertise in Native & Hybrid mobile app development.
+        with expertise in Front End development.
       </m.p>
 
       <Scroll id="who" />

@@ -22,8 +22,8 @@ const nextConfig = {
 
     return config;
   },
-  basePath: "/hf-portfolio",
-  assetPrefix: "/hf-portfolio",
+  basePath: "/ahzlan-portfolio",
+  assetPrefix: "/ahzlan-portfolio",
 };
 
 module.exports = withAnalyzer(nextConfig);
