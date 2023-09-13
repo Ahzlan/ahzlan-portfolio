@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <link
           rel="shortcut icon"
-          href="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
+          href="https://ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
           type="image/x-icon"
         />
 
@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta property="og:description" content="Ahzlan's Portfolio" />
         <meta
           property="og:image"
-          content="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
+          content="https://ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           property="twitter:image"
-          content="https://Ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
+          content="https://ahzlan.github.io/ahzlan-portfolio/a-logo-rounded.png"
         />
       </Head>
       <LazyMotion features={domAnimation}>

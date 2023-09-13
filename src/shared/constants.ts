@@ -40,7 +40,7 @@ export const socialLinks = [
   {
     title: "Github",
     icon: "https://i.ibb.co/gwDc6Z4/github.png",
-    link: "https://github.com/Husnainfarooq",
+    link: "https://github.com/Ahzlan",
   },
   // {
   //   title: "Facebook",
@@ -50,6 +50,6 @@ export const socialLinks = [
   {
     title: "Linkedin",
     icon: "https://i.ibb.co/VvJ0pgy/linkedin.png",
-    link: "https://www.linkedin.com/in/husnainfarooq365/",
+    link: "https://www.linkedin.com/in/ahzlan-irfan-650006128/",
   },
 ];
